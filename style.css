@@ -1,0 +1,41 @@
+h1 {
+  padding: 10px;
+  padding: 10px;
+
+  margin: auto;
+
+  font-size: 16px;
+
+  display: flex;
+
+  /* 値の単位 */
+  padding: 10em;
+  padding: 10rem;
+  padding: 10%;
+
+  padding: 0.1em;
+
+  /* 値の複数指定 */
+  padding: 10px 20px;
+  padding: 10px 20px 30px 10px;
+  border: 1px solid #fff;
+
+  /* !important */
+  padding: 10px !important;
+  padding: 10px !important;
+  padding: 10px !important;
+
+  /* プロパティの複数指定 */
+  width: 20px;
+  height: 20px;
+
+  max-width: 300px;
+  padding: 10px;
+  display: inline-block;
+  text-align: center;
+}
+
+h1 {
+  padding-top: 40px;
+}
+
